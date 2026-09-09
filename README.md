@@ -47,7 +47,7 @@ LAIDD-drug-discovery/
 
 | # | 강의 제목 | 핵심 내용 | 실습 | 상태 |
 |---|-----------|-----------|------|------|
-| 1 | 단백질 구조예측 및 상호작용 예측 개괄 | 구조예측·도킹·디자인 발전사, 신약개발 활용 분야 | trDesign hallucination | ✅ [`trdesign-hallucination/`]([structure-based/trdesign-hallucination/](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/trdesign_hallucination)) |
+| 1 | 단백질 구조예측 및 상호작용 예측 개괄 | 구조예측·도킹·디자인 발전사, 신약개발 활용 분야 | trDesign hallucination | ✅ [`trdesign_hallucination/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/trdesign_hallucination) |
 | 2 | 단백질 구조의 기초 | 4단계 계층 구조, 구조 뷰어(PyMOL/Chimera), SCOP/CATH 분류 | 구조 뷰어 실습 | — |
 | 3 | 단백질 접힘 원리 | 소수성 효과, 수소결합, 샤페론 매개 접힘 | — | — |
 | 4 | 호몰로지 모델링 | 주형 기반 구조 예측, MODELLER, Swiss-Model | 웹서버 실습 | — |
@@ -93,10 +93,9 @@ LAIDD-drug-discovery/
 ---
 
 ## 실습 완료 목록
-
 | 폴더 | 강의 | 주요 결과 | 사용 도구 |
 |------|------|-----------|-----------|
-| [`structure-based/trdesign-hallucination/`](structure-based/trdesign-hallucination/) | 1강 — 단백질 구조예측 개괄 | 50잔기 de novo 서열 디자인, ESMFold 구조 예측, 접힘 원리 분석 | trDesign, TF 1.14, ESMFold |
+| [`structure_based_drug_discovery/trdesign_hallucination/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/trdesign_hallucination) | 1강 — 단백질 구조예측 개괄 | 50잔기 de novo 서열 디자인, ESMFold 구조 예측, 접힘 원리 분석 | trDesign, TF 1.14, ESMFold |
 
 ---
 
