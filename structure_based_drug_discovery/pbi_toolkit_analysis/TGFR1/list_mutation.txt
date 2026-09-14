@@ -1,0 +1,38 @@
+1B6C;B/D/F/H;SO4;wild_type
+1IAS;A/B/C/D/E;SO4;wild_type
+1PY5;A;PY1,SO4;wild_type
+1RW8;A;580;wild_type
+1VJY;A;460;wild_type
+2WOT;A;EDO,ZZG;wild_type
+2WOU;A;EDO,ZZF;wild_type
+2X7O;A/B/C/D/E;ZOP;wild_type
+3FAA;A/B/C/D/E;55F,PO4;wild_type
+3GXL;A;QIG;wild_type
+3HMM;A;855;wild_type
+3KCF;A/B/C/D/E;JZO,PO4;wild_type
+3TZM;A;085;wild_type
+4X0M;A;3WA,SO4;wild_type
+4X2F;A;3WJ,SO4;wild_type
+4X2G;A;3WK,SO4,TRS;wild_type
+4X2J;A;3WN,SO4;wild_type
+4X2K;A;3WO,SO4;wild_type
+4X2N;A;SO4;wild_type
+5E8S;A;;wild_type
+5E8T;A;GOL;R199-,T204D
+5E8U;A;GOL;R199-,T204D,I211V,Y249F,S280T,Y282F,S287N,A350C,L352F
+5E8W;A;GOL,STU;R199-,T204D
+5E8X;A;GOL,STU;R199-,T204D,I211V,Y249F,S280T,Y282F,S287N,A350C,L352F
+5E8Z;A;5L4;R199-,T204D
+5E90;A;5L4;R199-,T204D,I211V,Y249F,S280T,Y282F,S287N,A350C,L352F
+5FRI;A;EDO,ZUQ;wild_type
+5QIK;A;GOL,J2M;R199-,T204D
+5QIL;A;J2V;R199-,T204D
+5QIM;A;GOL,J2Y;wild_type
+5QTZ;A;GOL,QMY;R199-,T204D
+5QU0;A;GOL,QMV;R199-,T204D
+5USQ;A;8LY;wild_type
+6B8Y;A;D0A;R199-,T204D
+pdb/8YHF.pdb does not exist
+pdb/8YHL.pdb does not exist
+pdb/9F6X.pdb does not exist
+pdb/9J9D.pdb does not exist

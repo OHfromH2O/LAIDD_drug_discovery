@@ -32,13 +32,17 @@ LAIDD-drug-discovery/
 │   │   ├── output_L50.fa
 │   │   ├── analysis_result.png
 │   │   └── esm_structure.png
-│   └── pdb_analysis/                  ✅ 완료
+│   ├── pdb_analysis/                  ✅ 완료
+│   │   ├── README.md
+│   │   ├── pdb_prac1.py
+│   │   └── images/
+│   │       ├── distance_map.png
+│   │       ├── contact_map.png
+│   │       └── structure_3hmm.png
+│   └── pbi_toolkit_analysis/          ✅ 완료
 │       ├── README.md
-│       ├── pdb_prac1.py
-│       └── images/
-│           ├── distance_map.png
-│           ├── contact_map.png
-│           └── structure_3hmm.png
+│       ├── pdb_prac2.py
+│       └── PBI.zip
 │
 └── ligand-based/
     └── (실습 추가 예정)
@@ -70,7 +74,7 @@ LAIDD-drug-discovery/
 
 | 강좌명 | 교수자 | 실습 |
 |--------|--------|------|
-| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | AutoDock Vina, rDock, Python 스크립트 |
+| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | PBI toolkit, AutoDock Vina, 도킹 전처리 | ✅ [`pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/pbi_toolkit_analysis) |
 | AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) |
 | 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead |
 | 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking |
@@ -104,6 +108,7 @@ LAIDD-drug-discovery/
 |------|------|-----------|-----------|
 | [`structure_based_drug_discovery/trdesign_hallucination/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/trdesign_hallucination) | 1강 — 단백질 구조예측 개괄 | 50잔기 de novo 서열 디자인, ESMFold 구조 예측, 접힘 원리 분석 | trDesign, TF 1.14, ESMFold |
 | [`structure_based_drug_discovery/pdb_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/pdb_analysis) | 2강 — 단백질 구조의 기초 | SEQRES/ATOM 서열 대조, 단백질-리간드 분리, Distance Map / Contact Map 시각화 | Biopython, SciPy, Biotite, py3Dmol |
+| [`structure_based_drug_discovery/pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/pbi_toolkit_analysis) | 도킹 프로그램 사용 실습 — PBI Toolkit | TGFR1 kinase domain 대상 35개 PDB 전처리, 28개 리간드 선별, Docking Box 계산 | PBI toolkit, TMalign, pdbfixer, PyMOL |
 
 ---
 

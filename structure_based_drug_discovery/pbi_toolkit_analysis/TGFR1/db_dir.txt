@@ -1,0 +1,1 @@
+db_dir=/content/drive/MyDrive/Database/uniprot
