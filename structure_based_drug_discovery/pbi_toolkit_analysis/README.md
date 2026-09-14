@@ -3,7 +3,7 @@
 > **LAIDD — 단백질 구조 기반 약물탐색**  
 > 강좌: 도킹 프로그램 사용 실습  
 > 실습 환경: **Google Colab** (전체 실행) + **PyMOL Windows** (구조 시각화)  
-> 실습 파일: [`pdb_prac2.py`](pdb_prac2.py)
+> 실습 파일: [`pdb_prac2.ipynb`](pdb_prac2.ipynb)
 
 ---
 
