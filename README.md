@@ -72,20 +72,20 @@ LAIDD-drug-discovery/
 
 **추가 강좌 (Structure-Based 확장):**
 
-| 강좌명 | 교수자 | 실습 |
-|--------|--------|------|
+| 강좌명 | 교수자 | 실습 | 상태 |
+|--------|--------|------|------|
 | 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | PBI toolkit, AutoDock Vina, 도킹 전처리 | ✅ [`pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/pbi_toolkit_analysis) |
-| AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) |
-| 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead |
-| 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking |
-| Molecular design with deep generative models | 임재창 (HITS) | SMILES/그래프 기반 생성모델 |
-| 분자생성모델 연구동향 리뷰 | 임재창 (HITS) | 이론 강의 |
-| AI 기반 protein-ligand interaction 예측 최신동향 | 황상연 (HITS) | 이론 강의 |
-| 신약후보물질 탐색 및 최적화를 위한 딥러닝 모델 | 김동섭 (KAIST) | GCN, 강화학습, 도킹 |
-| 단백질-리간드 상호작용 계산을 위한 분자동역학 시뮬레이션 | 최정모 (부산대학교) | MD 시뮬레이션, 자유에너지 계산 |
-| 생물정보학을 활용한 단백질 간 상호작용 및 복합체 모델링 | 이윤지 (중앙대학교) | 이론 강의 |
-| 단백질 언어 모델을 활용한 컨텍트 예측 | 김재훈 (카카오브레인) | HuggingFace, ESM, Contact prediction |
-| 면역정보학과 단백질 재설계 | 최윤주 (전남대학교) | 항체 재설계, MHC-펩타이드 결합 예측 |
+| AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) | — |
+| 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead | — |
+| 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking | — |
+| Molecular design with deep generative models | 임재창 (HITS) | SMILES/그래프 기반 생성모델 | — |
+| 분자생성모델 연구동향 리뷰 | 임재창 (HITS) | 이론 강의 | — |
+| AI 기반 protein-ligand interaction 예측 최신동향 | 황상연 (HITS) | 이론 강의 | — |
+| 신약후보물질 탐색 및 최적화를 위한 딥러닝 모델 | 김동섭 (KAIST) | GCN, 강화학습, 도킹 | — |
+| 단백질-리간드 상호작용 계산을 위한 분자동역학 시뮬레이션 | 최정모 (부산대학교) | MD 시뮬레이션, 자유에너지 계산 | — |
+| 생물정보학을 활용한 단백질 간 상호작용 및 복합체 모델링 | 이윤지 (중앙대학교) | 이론 강의 | — |
+| 단백질 언어 모델을 활용한 컨텍트 예측 | 김재훈 (카카오브레인) | HuggingFace, ESM, Contact prediction | — |
+| 면역정보학과 단백질 재설계 | 최윤주 (전남대학교) | 항체 재설계, MHC-펩타이드 결합 예측 | — |
 
 ---
 
