@@ -471,34 +471,9 @@ size_z=22.033
 ```
 pbi_toolkit_analysis/
 ├── README.md
-├── pdb_prac2.py                       ← 전체 실습 코드 (Colab .ipynb 변환)
+├── pdb_prac2.ipynb                       ← 전체 실습 코드 (Colab .ipynb 변환)
 ├── PBI.zip                            ← PBI toolkit 원본
-└── TGFR1/                             ← 작업 폴더
-    ├── db_dir.txt
-    ├── P36897.fasta
-    ├── P36897_pdb_list.txt
-    ├── P36897_pdb_list_filter.txt
-    ├── list_mutation.txt
-    ├── list_chain.txt
-    ├── list_ligand.txt
-    ├── list_ligand_select.txt
-    ├── list_final.txt
-    ├── water_file_list.txt
-    ├── config.txt                     ← Docking box 설정
-    ├── pdb/                           ← 35개 원본 PDB
-    ├── chain/                         ← Chain 분리 + TMalign 정렬
-    │   ├── 3HMMA.pdb
-    │   ├── 3HMMA_rotate.pdb
-    │   ├── 3HMMA_855.pdb
-    │   └── *_HOH.pdb                  ← 원본에서 추출한 water
-    ├── select/                        ← receptor + HOH + ligand
-    │   ├── 3HMMA_receptor.pdb
-    │   ├── 3HMMA_HOH.pdb
-    │   └── 3HMMA_receptor_HOH.pdb
-    ├── fix/                           ← 최종 도킹 입력 파일
-    │   ├── 3HMMA_855_p.pdb            ← fixed ligand
-    │   └── 3HMMA_receptor_HOH.pdb    ← fixed receptor
-    └── cif/                           ← mmCIF 리간드 참조 파일
+
 ```
 
 ---
