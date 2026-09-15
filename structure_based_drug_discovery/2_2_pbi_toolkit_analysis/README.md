@@ -469,7 +469,7 @@ size_z=22.033
 ## 전체 생성 파일 구조
 
 ```
-pbi_toolkit_analysis/
+2_2_pbi_toolkit_analysis/
 ├── README.md
 ├── pdb_prac2.ipynb                       ← 전체 실습 코드 (Colab .ipynb 변환)
 ├── PBI.zip                            ← PBI toolkit 원본

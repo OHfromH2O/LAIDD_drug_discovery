@@ -225,7 +225,7 @@ plt.imshow(contact_matrix, cmap='Greys', origin='lower')
 ## 파일 구조
 
 ```
-pdb_analysis/
+2_1_pdb_analysis/
 ├── README.md
 ├── pdb_prac1.py
 └── images/

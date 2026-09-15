@@ -111,7 +111,9 @@ pip install pandas scipy matplotlib
 ln -s "/mnt/c/Users/PC/OneDrive - emocog/문서/Simoa_Jay/7)관련 논문 및 실습/trDesign" ~/trDesign
 
 # 모델 가중치 다운로드 (미리 완료된 경우 생략)
-cd ~/trDesign
+# trDesign 소스는 로컬 경로에 별도 보관
+# 포트폴리오 파일은 structure_based_drug_discovery/1_trdesign_hallucination/ 에 위치
+cd ~/trDesign/01-hallucinate
 wget https://files.ipd.uw.edu/pub/trRosetta/model2019_07.tar.bz2
 tar xf model2019_07.tar.bz2 -C trRosetta/
 wget https://files.ipd.uw.edu/pub/trRosetta/bkgr2019_05.tar.bz2
@@ -343,7 +345,7 @@ PYTHONPATH=./src python hallucinate.py \
 ## 7. 파일 구조
 
 ```
-trdesign-portfolio/
+1_trdesign-hallucination/
 ├── README.md                  # 이 파일
 ├── analyze_trdesign.py        # 결과 분석 스크립트
 ├── output_L50.fa              # 최종 디자인 서열 (FASTA)
