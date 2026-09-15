@@ -78,7 +78,10 @@ LAIDD-drug-discovery/
 
 | 강좌명 | 교수자 | 실습 | 상태 |
 |--------|--------|------|------|
-| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | PBI toolkit, AutoDock Vina, 도킹 전처리 | ✅ [`2_2_pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_2_pbi_toolkit_analysis) |
+| protein data bank 분석 (1강) | 홍승환 (한국제약바이오협회) | PDB 파일 파싱, Distance Map, 단백질-리간드 분리 | ✅ [`2_1_pdb_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_1_pdb_analysis) |
+| protein data bank 분석 (2강) | 홍승환 (한국제약바이오협회) | PBI toolkit, UniProt 연동, 도킹 전처리 | ✅ [`2_2_pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_2_pbi_toolkit_analysis) |
+| protein data bank 분석 (실습) | 홍승환 (한국제약바이오협회) | Cα 거리 히스토그램, 라마찬드란 플롯 | ✅ [`2_3_pdb_statistics/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_3_pdb_statistics) |
+| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | AutoDock Vina, rDock, RMSD 계산, 도킹 자동화 | 🔄 진행 예정 |
 | AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) | — |
 | 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead | — |
 | 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking | — |
