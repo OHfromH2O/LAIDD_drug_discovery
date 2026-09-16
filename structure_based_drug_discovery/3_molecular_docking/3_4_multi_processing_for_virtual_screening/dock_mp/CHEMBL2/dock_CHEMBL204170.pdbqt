@@ -1,0 +1,336 @@
+MODEL 1
+REMARK VINA RESULT:     -10.9      0.000      0.000
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     15.658  66.255   5.821  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     16.521  67.226   8.560  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     18.078  68.385  10.882  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     13.690  65.230   4.831  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     15.026  66.819   9.456  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     15.910  67.305  10.012  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     14.420  66.164   7.649  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     14.831  66.030   6.317  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     20.151  69.672   4.834  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     21.447  69.794   7.575  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     18.268  69.366   1.298  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     18.861  69.199   3.336  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     18.036  68.441   3.976  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     18.342  68.009   6.237  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     17.562  67.292   6.842  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.517  67.251   6.877  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     17.205  67.677   4.621  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     19.568  68.780   6.535  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     16.944  67.831  10.477  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     17.544  67.094  10.471  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     15.330  65.418   6.312  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     17.736  68.616  12.141  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     15.841  68.307   9.652  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     14.596  67.199   7.156  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     -10.3      1.741      2.129
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     16.672  68.158   5.545  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     16.917  67.762   8.540  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     17.773  67.920  11.439  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     15.282  67.310   3.742  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     15.599  66.568   8.747  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     16.206  66.912   9.663  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     15.409  66.808   6.755  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     15.943  67.498   5.660  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     21.851  70.206   6.892  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     21.592  70.618   9.888  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     21.969  69.582   2.925  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     21.396  69.724   4.971  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     20.180  69.321   5.119  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     19.183  69.322   7.216  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     18.032  68.941   7.356  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.966  68.919   7.364  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     18.954  68.914   5.268  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     20.269  69.848   8.072  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     16.945  67.376  10.558  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     16.569  68.244  10.639  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     15.630  68.220   5.727  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     17.379  67.250  12.510  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     17.172  66.415   9.486  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     16.556  66.521   6.551  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:     -10.2      1.975      5.092
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     18.089  67.786  10.027  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     16.873  67.719   7.251  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     16.444  67.801   4.257  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     17.320  67.533  12.318  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     15.177  67.400   7.725  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     15.447  67.505   6.611  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     15.952  67.438   9.585  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     17.151  67.609  10.288  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     21.980  70.292   6.648  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     21.109  69.346   3.899  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     22.950  71.418  10.380  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     22.036  70.554   8.662  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     21.020  69.841   9.014  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     19.751  68.728   7.418  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     18.790  68.054   7.751  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     18.735  68.016   7.770  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     19.995  69.123   9.368  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     20.440  69.100   6.163  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     15.889  67.642   5.450  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     16.328  66.806   5.347  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     17.516  66.914  10.203  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     15.345  67.729   3.523  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     15.642  68.584   6.534  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     16.416  68.533   9.433  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:     -10.0      1.733      4.686
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     18.886  68.223   8.094  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     16.499  66.862   6.815  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     14.369  65.934   4.875  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     19.962  68.262  10.272  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     15.945  65.930   8.239  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     15.370  65.848   7.245  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     17.525  66.818   9.121  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     18.580  67.707   8.881  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     19.581  69.276   2.504  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     16.882  68.458   1.383  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     23.073  70.298   4.206  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     21.088  69.633   3.820  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     20.521  69.270   4.920  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     18.338  68.479   4.918  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     17.802  68.135   5.959  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.771  68.116   6.018  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     19.950  68.904   6.029  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     17.984  68.556   3.484  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     14.851  65.860   6.108  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     15.470  65.260   5.706  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     19.094  67.209   8.548  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     13.305  65.174   5.034  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     14.895  66.909   7.118  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     17.156  67.995   8.767  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -9.8      1.502      5.306
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     17.713  68.543   4.036  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     19.535  69.115   6.389  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     20.679  69.473   9.168  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     17.861  68.591   1.611  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     21.000  69.576   5.469  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     21.024  69.583   6.620  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     19.815  69.204   3.881  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     18.523  68.798   3.527  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     14.935  66.294   8.515  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     16.422  67.539  10.850  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     13.115  64.766   5.276  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     14.387  65.825   6.615  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     15.243  66.525   5.951  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     16.814  67.829   7.058  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     17.624  68.491   6.430  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.670  68.529   6.394  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     16.106  67.230   5.281  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     16.484  67.569   8.476  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     20.901  69.543   7.863  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     20.423  70.358   7.965  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     18.125  69.476   3.612  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     21.894  69.769   9.588  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     20.967  68.470   6.879  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     19.523  68.054   4.282  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -9.8      1.787      5.932
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     19.307  68.490   5.421  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     16.685  66.979   5.257  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     14.183  65.408   5.912  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     20.816  69.617   3.885  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     16.427  67.108   3.490  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     15.656  66.553   4.140  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     18.170  68.118   3.563  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     19.165  68.561   4.444  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     18.116  67.474  10.933  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     15.636  65.738  10.717  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     21.403  69.783  10.978  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     19.715  68.615  10.413  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     19.610  68.583   9.127  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     17.886  67.403   8.113  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     17.786  67.373   6.898  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.781  67.371   6.828  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     19.504  68.550   7.832  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     17.160  66.856   9.280  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     14.911  65.985   4.967  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     15.422  65.223   5.213  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     19.590  67.928   4.649  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     13.164  65.022   5.154  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     15.181  67.364   4.582  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     17.753  68.881   4.278  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -9.7      2.056      4.891
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     21.078  69.264   7.062  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     18.308  68.314   7.843  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     15.414  67.430   7.806  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     23.175  69.763   8.183  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     18.577  68.170   9.606  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     17.547  67.911   9.164  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     20.429  68.800   9.122  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     21.227  69.184   8.037  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     18.398  69.032   2.002  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     15.624  68.110   2.816  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     22.133  70.246   1.156  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     20.345  69.602   2.117  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     20.534  69.515   3.390  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     18.812  68.841   4.795  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     18.990  68.759   5.999  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     19.001  68.754   6.068  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     20.724  69.427   4.673  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     17.705  68.618   3.839  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     16.489  67.666   8.544  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     16.205  68.561   8.404  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     20.991  69.929   7.921  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     14.619  66.979   8.759  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     17.759  66.953   8.601  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     20.591  67.898   8.292  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -9.6      1.729      5.020
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL204170.pdb
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N1_2
+REMARK    2  A    between atoms: C6_8  and  C7_9
+REMARK    3  A    between atoms: C12_16  and  C13_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  CHE B   01     16.643  66.981   8.932  0.00  0.00    +0.032 A 
+ATOM      2  C8  CHE B   01     18.973  68.455   7.674  0.00  0.00    +0.048 A 
+ATOM      3  C9  CHE B   01     20.790  69.940   5.763  0.00  0.00    +0.057 C 
+ATOM      4  C10 CHE B   01     16.119  65.975  11.081  0.00  0.00    +0.029 C 
+ATOM      5  C11 CHE B   01     20.079  68.429   9.081  0.00  0.00    +0.144 C 
+ATOM      6  N3  CHE B   01     20.415  68.930   8.101  0.00  0.00    -0.267 N 
+ATOM      7  N4  CHE B   01     18.548  67.446   9.949  0.00  0.00    -0.169 NA
+ATOM      8  C12 CHE B   01     17.254  66.967   9.710  0.00  0.00    +0.119 A 
+ENDROOT
+BRANCH   1  16
+ATOM      9  C1  CHE B   01     15.369  67.028   3.345  0.00  0.00    +0.150 C 
+ATOM     10  N1  CHE B   01     17.339  69.077   2.282  0.00  0.00    -0.333 N 
+ATOM     11  C2  CHE B   01     12.854  64.352   4.973  0.00  0.00    +0.200 A 
+ATOM     12  N2  CHE B   01     14.360  65.816   4.627  0.00  0.00    -0.236 NA
+ATOM     13  C3  CHE B   01     14.948  66.116   5.736  0.00  0.00    +0.089 A 
+ATOM     14  C4  CHE B   01     16.659  67.686   5.777  0.00  0.00    +0.030 A 
+ATOM     15  C5  CHE B   01     17.215  67.969   6.825  0.00  0.00    +0.011 A 
+ATOM     16  C6  CHE B   01     17.246  67.986   6.886  0.00  0.00    -0.012 A 
+ATOM     17  C18 CHE B   01     15.540  66.418   6.853  0.00  0.00    +0.036 A 
+ATOM     18  C19 CHE B   01     16.749  68.080   4.354  0.00  0.00    +0.069 A 
+ENDBRANCH   1  16
+BRANCH   8  19
+ATOM     19  C13 CHE B   01     20.640  69.434   6.979  0.00  0.00    +0.091 A 
+ATOM     20  C14 CHE B   01     20.103  70.215   7.051  0.00  0.00    +0.030 A 
+ATOM     21  C15 CHE B   01     16.808  67.616   9.770  0.00  0.00    +0.004 A 
+ATOM     22  C16 CHE B   01     22.041  70.352   5.880  0.00  0.00    +0.020 A 
+ATOM     23  C17 CHE B   01     20.571  68.055   7.444  0.00  0.00    +0.111 A 
+ATOM     24  N5  CHE B   01     18.520  66.604   9.085  0.00  0.00    -0.253 NA
+ENDBRANCH   8  19
+TORSDOF 2
+ENDMDL

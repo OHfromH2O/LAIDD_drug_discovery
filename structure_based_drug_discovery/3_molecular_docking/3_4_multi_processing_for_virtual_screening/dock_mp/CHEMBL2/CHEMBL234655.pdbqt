@@ -1,0 +1,71 @@
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL234655.pdb
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_8  and  C7_9
+REMARK    2  A    between atoms: C8_11  and  N2_12
+REMARK    3  A    between atoms: N2_12  and  C9_13
+REMARK    4  A    between atoms: C13_18  and  C14_19
+REMARK    5  A    between atoms: N4_21  and  C15_22
+REMARK    6  A    between atoms: C15_22  and  C16_23
+REMARK    7  A    between atoms: C16_23  and  C17_24
+REMARK    8  A    between atoms: C17_24  and  N5_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  N2  CHE B   06      1.000  -1.080   3.000  0.00  0.00    -0.297 N 
+ATOM      2  H4  CHE B   06      1.000  -0.300   5.000  0.00  0.00    +0.154 HD
+ENDROOT
+BRANCH   1   5
+ATOM      3  C7  CHE B   06      1.000  -4.330   1.000  0.00  0.00    +0.167 A 
+ATOM      4  N1  CHE B   06      1.000  -3.030   3.000  0.00  0.00    -0.210 NA
+ATOM      5  C8  CHE B   06      1.000  -2.420   2.000  0.00  0.00    +0.155 A 
+ATOM      6  C22 CHE B   06      1.000  -3.090   6.000  0.00  0.00    +0.148 A 
+ATOM      7  N6  CHE B   06      1.000  -2.490   4.000  0.00  0.00    -0.247 NA
+ATOM      8  C23 CHE B   06      1.000  -3.180   2.000  0.00  0.00    +0.131 A 
+ATOM      9  C24 CHE B   06      1.000  -4.490   4.000  0.00  0.00    +0.133 A 
+ATOM     10  N7  CHE B   06      1.000  -5.070   0.000  0.00  0.00    -0.233 NA
+ATOM     11  C25 CHE B   06      1.000  -4.400   0.000  0.00  0.00    +0.184 A 
+ATOM     12  N8  CHE B   06      1.000  -4.930   8.000  0.00  0.00    -0.206 NA
+BRANCH   3  20
+ATOM     13  F1  CHE B   06      1.000  -6.920   0.000  0.00  0.00    -0.205 F 
+ATOM     14  C1  CHE B   06      1.000  -6.350   7.000  0.00  0.00    +0.134 A 
+ATOM     15  C2  CHE B   06      1.000  -7.140   0.000  0.00  0.00    +0.040 A 
+ATOM     16  C3  CHE B   06      1.000  -6.580   5.000  0.00  0.00    +0.018 A 
+ATOM     17  C4  CHE B   06      1.000  -5.280   7.000  0.00  0.00    +0.019 A 
+ATOM     18 BR1  CHE B   06      1.000  -4.590   8.000  0.00  0.00    -0.050 Br
+ATOM     19  C5  CHE B   06      1.000  -4.490   0.000  0.00  0.00    +0.029 A 
+ATOM     20  C6  CHE B   06      1.000  -5.030   5.000  0.00  0.00    +0.055 A 
+ENDBRANCH   3  20
+ENDBRANCH   1   5
+BRANCH   1  21
+ATOM     21  C9  CHE B   06      1.000  -0.890   2.000  0.00  0.00    +0.048 A 
+ATOM     22  C10 CHE B   06      1.000  -2.020   5.000  0.00  0.00    +0.044 A 
+ATOM     23  C11 CHE B   06      1.000  -1.950   1.000  0.00  0.00    +0.112 A 
+ATOM     24  N3  CHE B   06      1.000  -0.730   5.000  0.00  0.00    -0.262 NA
+ATOM     25  C12 CHE B   06      1.000   0.370   0.000  0.00  0.00    +0.125 A 
+ATOM     26  C13 CHE B   06      1.000   0.320   9.000  0.00  0.00    +0.076 A 
+BRANCH  26  27
+ATOM     27  C14 CHE B   06      1.000   1.530   0.000  0.00  0.00    +0.247 C 
+ATOM     28  O1  CHE B   06      1.000   1.370   6.000  0.00  0.00    -0.270 OA
+ATOM     29  N4  CHE B   06      1.000   2.840   3.000  0.00  0.00    -0.311 N 
+ATOM     30  H8  CHE B   06      1.000   2.930   7.000  0.00  0.00    +0.149 HD
+BRANCH  29  31
+ATOM     31  C15 CHE B   06      1.000   4.030   6.000  0.00  0.00    +0.106 C 
+BRANCH  31  32
+ATOM     32  C16 CHE B   06      1.000   4.060   9.000  0.00  0.00    +0.038 C 
+BRANCH  32  33
+ATOM     33  C17 CHE B   06      1.000   5.380   8.000  0.00  0.00    +0.109 C 
+BRANCH  33  34
+ATOM     34  N5  CHE B   06      1.000   5.620   4.000  0.00  0.00    -0.301 N 
+ATOM     35  C18 CHE B   06      1.000   5.220   4.000  0.00  0.00    +0.108 C 
+ATOM     36  C19 CHE B   06      1.000   6.040   1.000  0.00  0.00    +0.028 C 
+ATOM     37  C20 CHE B   06      1.000   6.280   2.000  0.00  0.00    +0.097 C 
+ATOM     38  C21 CHE B   06      1.000   6.310   6.000  0.00  0.00    +0.216 C 
+ATOM     39  O2  CHE B   06      1.000   6.880   3.000  0.00  0.00    -0.276 OA
+ENDBRANCH  33  34
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH  29  31
+ENDBRANCH  26  27
+ENDBRANCH   1  21
+TORSDOF 8

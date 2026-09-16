@@ -1,0 +1,127 @@
+HETATM    1  C1  CHEMBL260239     1       7.724   1.268  -0.810  1.00  0.00           C  
+HETATM    2  N1  CHEMBL260239     1       7.947  -0.088  -0.326  1.00  0.00           N1+
+HETATM    3  C2  CHEMBL260239     1       9.360  -0.236  -0.061  1.00  0.00           C  
+HETATM    4  C3  CHEMBL260239     1       7.243  -0.295   0.926  1.00  0.00           C  
+HETATM    5  C4  CHEMBL260239     1       5.824  -0.654   0.743  1.00  0.00           C  
+HETATM    6  C5  CHEMBL260239     1       4.881   0.346   0.673  1.00  0.00           C  
+HETATM    7  C6  CHEMBL260239     1       3.535   0.054   0.502  1.00  0.00           C  
+HETATM    8  C7  CHEMBL260239     1       3.046  -1.227   0.390  1.00  0.00           C  
+HETATM    9  O1  CHEMBL260239     1       1.788  -1.629   0.228  1.00  0.00           O  
+HETATM   10  C8  CHEMBL260239     1       0.601  -1.031   0.424  1.00  0.00           C  
+HETATM   11  C9  CHEMBL260239     1      -0.507  -1.610  -0.232  1.00  0.00           C  
+HETATM   12  C10 CHEMBL260239     1      -1.775  -1.091  -0.109  1.00  0.00           C  
+HETATM   13  C11 CHEMBL260239     1      -2.041   0.002   0.646  1.00  0.00           C  
+HETATM   14  C12 CHEMBL260239     1      -3.270   0.586   0.823  1.00  0.00           C  
+HETATM   15  C13 CHEMBL260239     1      -4.405  -0.035   0.140  1.00  0.00           C  
+HETATM   16  C14 CHEMBL260239     1      -4.903  -1.327   0.349  1.00  0.00           C  
+HETATM   17  C15 CHEMBL260239     1      -4.680  -2.550   1.155  1.00  0.00           C  
+HETATM   18  C16 CHEMBL260239     1      -5.479  -3.609   0.428  1.00  0.00           C  
+HETATM   19  C17 CHEMBL260239     1      -6.524  -2.817  -0.323  1.00  0.00           C  
+HETATM   20  N2  CHEMBL260239     1      -5.954  -1.510  -0.478  1.00  0.00           N  
+HETATM   21  N3  CHEMBL260239     1      -6.155  -0.403  -1.205  1.00  0.00           N  
+HETATM   22  C18 CHEMBL260239     1      -5.224   0.488  -0.836  1.00  0.00           C  
+HETATM   23  C19 CHEMBL260239     1      -5.129   1.825  -1.415  1.00  0.00           C  
+HETATM   24  C20 CHEMBL260239     1      -6.234   2.641  -1.274  1.00  0.00           C  
+HETATM   25  C21 CHEMBL260239     1      -6.197   3.916  -1.801  1.00  0.00           C  
+HETATM   26  C22 CHEMBL260239     1      -5.033   4.301  -2.448  1.00  0.00           C  
+HETATM   27  C23 CHEMBL260239     1      -3.943   3.456  -2.571  1.00  0.00           C  
+HETATM   28  N4  CHEMBL260239     1      -4.002   2.205  -2.044  1.00  0.00           N  
+HETATM   29  C24 CHEMBL260239     1      -3.494   1.700   1.598  1.00  0.00           C  
+HETATM   30  C25 CHEMBL260239     1      -2.394   2.262   2.241  1.00  0.00           C  
+HETATM   31  N5  CHEMBL260239     1      -1.191   1.688   2.066  1.00  0.00           N  
+HETATM   32  C26 CHEMBL260239     1      -0.972   0.599   1.308  1.00  0.00           C  
+HETATM   33  C27 CHEMBL260239     1       0.313   0.072   1.183  1.00  0.00           C  
+HETATM   34  C28 CHEMBL260239     1       4.033  -2.236   0.464  1.00  0.00           C  
+HETATM   35  C29 CHEMBL260239     1       5.362  -1.948   0.633  1.00  0.00           C  
+HETATM   36  H1  CHEMBL260239     1       8.627   1.515  -1.428  1.00  0.00           H  
+HETATM   37  H2  CHEMBL260239     1       7.603   1.971   0.047  1.00  0.00           H  
+HETATM   38  H3  CHEMBL260239     1       6.805   1.297  -1.439  1.00  0.00           H  
+HETATM   39  H4  CHEMBL260239     1       7.622  -0.745  -1.053  1.00  0.00           H  
+HETATM   40  H5  CHEMBL260239     1       9.944   0.331  -0.805  1.00  0.00           H  
+HETATM   41  H6  CHEMBL260239     1       9.643  -1.309  -0.036  1.00  0.00           H  
+HETATM   42  H7  CHEMBL260239     1       9.545   0.206   0.950  1.00  0.00           H  
+HETATM   43  H8  CHEMBL260239     1       7.289   0.629   1.541  1.00  0.00           H  
+HETATM   44  H9  CHEMBL260239     1       7.773  -1.100   1.498  1.00  0.00           H  
+HETATM   45  H10 CHEMBL260239     1       5.235   1.386   0.760  1.00  0.00           H  
+HETATM   46  H11 CHEMBL260239     1       2.878   0.902   0.438  1.00  0.00           H  
+HETATM   47  H12 CHEMBL260239     1      -0.360  -2.500  -0.862  1.00  0.00           H  
+HETATM   48  H13 CHEMBL260239     1      -2.615  -1.563  -0.632  1.00  0.00           H  
+HETATM   49  H14 CHEMBL260239     1      -3.624  -2.832   1.268  1.00  0.00           H  
+HETATM   50  H15 CHEMBL260239     1      -5.148  -2.475   2.169  1.00  0.00           H  
+HETATM   51  H16 CHEMBL260239     1      -4.807  -4.153  -0.244  1.00  0.00           H  
+HETATM   52  H17 CHEMBL260239     1      -5.927  -4.348   1.126  1.00  0.00           H  
+HETATM   53  H18 CHEMBL260239     1      -6.807  -3.284  -1.278  1.00  0.00           H  
+HETATM   54  H19 CHEMBL260239     1      -7.446  -2.808   0.300  1.00  0.00           H  
+HETATM   55  H20 CHEMBL260239     1      -7.123   2.272  -0.749  1.00  0.00           H  
+HETATM   56  H21 CHEMBL260239     1      -7.030   4.600  -1.722  1.00  0.00           H  
+HETATM   57  H22 CHEMBL260239     1      -5.016   5.299  -2.856  1.00  0.00           H  
+HETATM   58  H23 CHEMBL260239     1      -3.061   3.776  -3.072  1.00  0.00           H  
+HETATM   59  H24 CHEMBL260239     1      -4.464   2.158   1.734  1.00  0.00           H  
+HETATM   60  H25 CHEMBL260239     1      -2.569   3.136   2.848  1.00  0.00           H  
+HETATM   61  H26 CHEMBL260239     1       1.074   0.583   1.745  1.00  0.00           H  
+HETATM   62  H27 CHEMBL260239     1       3.733  -3.290   0.384  1.00  0.00           H  
+HETATM   63  H28 CHEMBL260239     1       6.073  -2.765   0.683  1.00  0.00           H  
+CONECT    1    2   36   37   38
+CONECT    2    1    3    4   39
+CONECT    3    2   40   41   42
+CONECT    4    2    5   43   44
+CONECT    5    4    6   35   35
+CONECT    6    5    7    7   45
+CONECT    7    6    6    8   46
+CONECT    8    7    9   34   34
+CONECT    9    8   10
+CONECT   10    9   11   11   33
+CONECT   11   10   10   12   47
+CONECT   12   11   13   13   48
+CONECT   13   12   12   14   32
+CONECT   14   13   15   29   29
+CONECT   15   14   16   16   22
+CONECT   16   15   15   17   20
+CONECT   17   16   18   49   50
+CONECT   18   17   19   51   52
+CONECT   19   18   20   53   54
+CONECT   20   16   19   21
+CONECT   21   20   22   22
+CONECT   22   15   21   21   23
+CONECT   23   22   24   24   28
+CONECT   24   23   23   25   55
+CONECT   25   24   26   26   56
+CONECT   26   25   25   27   57
+CONECT   27   26   28   28   58
+CONECT   28   23   27   27
+CONECT   29   14   14   30   59
+CONECT   30   29   31   31   60
+CONECT   31   30   30   32
+CONECT   32   13   31   33   33
+CONECT   33   10   32   32   61
+CONECT   34    8    8   35   62
+CONECT   35    5    5   34   63
+CONECT   36    1
+CONECT   37    1
+CONECT   38    1
+CONECT   39    2
+CONECT   40    3
+CONECT   41    3
+CONECT   42    3
+CONECT   43    4
+CONECT   44    4
+CONECT   45    6
+CONECT   46    7
+CONECT   47   11
+CONECT   48   12
+CONECT   49   17
+CONECT   50   17
+CONECT   51   18
+CONECT   52   18
+CONECT   53   19
+CONECT   54   19
+CONECT   55   24
+CONECT   56   25
+CONECT   57   26
+CONECT   58   27
+CONECT   59   29
+CONECT   60   30
+CONECT   61   33
+CONECT   62   34
+CONECT   63   35
+END

@@ -1,0 +1,36 @@
+REMARK  Name = dock_mp/CHEMBL2/CHEMBL261454.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5
+REMARK    2  A    between atoms: C7_9  and  C8_10
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C5  CHE B   04      1.000   1.470   0.000  0.00  0.00    +0.118 A 
+ATOM      2  N1  CHE B   04      1.000   2.130   4.000  0.00  0.00    -0.172 NA
+ATOM      3  N2  CHE B   04      1.000   1.460   0.000  0.00  0.00    -0.284 N 
+ATOM      4  C6  CHE B   04      1.000   0.290   9.000  0.00  0.00    +0.114 A 
+ATOM      5  C7  CHE B   04      1.000   0.270   2.000  0.00  0.00    +0.029 A 
+ATOM      6  H4  CHE B   04      1.000   1.760   6.000  0.00  0.00    +0.188 HD
+ENDROOT
+BRANCH   5   7
+ATOM      7  C8  CHE B   04      1.000  -0.820   9.000  0.00  0.00    -0.004 A 
+ATOM      8  C9  CHE B   04      1.000  -1.040   2.000  0.00  0.00    +0.029 A 
+ATOM      9  C10 CHE B   04      1.000  -2.060   4.000  0.00  0.00    +0.112 A 
+ATOM     10  N3  CHE B   04      1.000  -2.880   0.000  0.00  0.00    -0.255 NA
+ATOM     11  C11 CHE B   04      1.000  -2.670   5.000  0.00  0.00    +0.072 A 
+ATOM     12  C12 CHE B   04      1.000  -3.540   1.000  0.00  0.00    +0.028 A 
+ATOM     13  C13 CHE B   04      1.000  -3.350   2.000  0.00  0.00    +0.002 A 
+ATOM     14  C14 CHE B   04      1.000  -2.320   1.000  0.00  0.00    +0.001 A 
+ATOM     15  C15 CHE B   04      1.000  -1.460   7.000  0.00  0.00    +0.010 A 
+ATOM     16  C16 CHE B   04      1.000  -1.650   8.000  0.00  0.00    +0.008 A 
+ENDBRANCH   5   7
+BRANCH   1  20
+ATOM     17  C1  CHE B   04      1.000   3.190   2.000  0.00  0.00    +0.020 A 
+ATOM     18  C2  CHE B   04      1.000   3.580   3.000  0.00  0.00    +0.004 A 
+ATOM     19  C3  CHE B   04      1.000   2.980   5.000  0.00  0.00    +0.030 A 
+ATOM     20  C4  CHE B   04      1.000   2.010   2.000  0.00  0.00    +0.091 A 
+ATOM     21  N4  CHE B   04      1.000   1.670   4.000  0.00  0.00    -0.253 NA
+ATOM     22  C17 CHE B   04      1.000   2.220   1.000  0.00  0.00    +0.111 A 
+ENDBRANCH   1  20
+TORSDOF 2
