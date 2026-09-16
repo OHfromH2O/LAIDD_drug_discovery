@@ -3,7 +3,7 @@
 > **LAIDD — 단백질 구조 기반 약물탐색**  
 > 강좌: 도킹 프로그램 사용 실습 (홍승환, 한국제약바이오협회)  
 > 실습 환경: **WSL2 Ubuntu** (CLI) + **UCSF Chimera Windows** (GUI)  
-> 실습 파일: [`prac1.py`](prac1.py)
+> 실습 파일: [`prac1.ipynb`](prac1.ipynb)
 
 ---
 
