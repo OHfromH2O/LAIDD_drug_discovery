@@ -1,0 +1,10 @@
+receptor=pdb/3HMMA_receptor_HOH.pdbqt
+center_x=17.994
+center_y=68.852
+center_z=7.446
+size_x=26.718
+size_y=19.984
+size_z=22.033
+cpu=10
+num_modes=10
+exhaustiveness=10

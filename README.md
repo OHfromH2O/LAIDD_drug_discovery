@@ -47,6 +47,13 @@ LAIDD-drug-discovery/
 │       ├── README.md
 │       ├── 4_ca_dist.ipynb
 │       └── 5_rama.ipynb
+│   ├── 3_molecular_docking/           ✅ 완료
+│   │   └── 3_1_docking_setup/
+│   │       ├── README.md
+│   │       ├── prac1.py
+│   │       ├── docking_practice_with_UCSF_chimera/
+│   │       └── docking_practice_with_linux_and_pymol/
+│
 │
 └── ligand-based/
     └── (실습 추가 예정)
@@ -81,7 +88,7 @@ LAIDD-drug-discovery/
 | protein data bank 분석 (1강) | 홍승환 (한국제약바이오협회) | PDB 파일 파싱, Distance Map, 단백질-리간드 분리 | ✅ [`2_1_pdb_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_1_pdb_analysis) |
 | protein data bank 분석 (2강) | 홍승환 (한국제약바이오협회) | PBI toolkit, UniProt 연동, 도킹 전처리 | ✅ [`2_2_pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_2_pbi_toolkit_analysis) |
 | protein data bank 분석 (실습) | 홍승환 (한국제약바이오협회) | Cα 거리 히스토그램, 라마찬드란 플롯 | ✅ [`2_3_pdb_statistics/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_3_pdb_statistics) |
-| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | AutoDock Vina, rDock, RMSD 계산, 도킹 자동화 | 🔄 진행 예정 |
+| 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | AutoDock Vina, Quick Vina 2, PDBQT 변환, PyMOL 시각화 | ✅ [`3_molecular_docking/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking) |
 | AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) | — |
 | 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead | — |
 | 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking | — |
@@ -117,6 +124,7 @@ LAIDD-drug-discovery/
 | [`structure_based_drug_discovery/2_1_pdb_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_1_pdb_analysis) | 2강 — 단백질 구조의 기초 | SEQRES/ATOM 서열 대조, 단백질-리간드 분리, Distance Map / Contact Map 시각화 | Biopython, SciPy, Biotite, py3Dmol |
 | [`structure_based_drug_discovery/2_2_pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_2_pbi_toolkit_analysis) | 도킹 프로그램 사용 실습 — PBI Toolkit | TGFR1 kinase domain 대상 35개 PDB 전처리, 28개 리간드 선별, Docking Box 계산 | PBI toolkit, TMalign, pdbfixer, PyMOL |
 | [`structure_based_drug_discovery/2_3_pdb_statistics/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_3_pdb_statistics) | 도킹 프로그램 사용 실습 — PDB 통계 분석 | Cα 거리 히스토그램 (Gap 1~5), 프롤린 cis 결합 분석, 라마찬드란 플롯 (ALA/GLY/PRO) | NumPy, Matplotlib, PISCES |
+| [`structure_based_drug_discovery/3_molecular_docking/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking) | 도킹 프로그램 사용 실습 | Chimera GUI (-10.588 kcal/mol) + Quick Vina 2 CLI (-11.4 kcal/mol), TGFR1-855 결합 자세 재현 | AutoDock Vina 1.2.3, Quick Vina 2, AutoDockTools, PBI Toolkit, PyMOL |
 ---
 
 ## 환경 요약
