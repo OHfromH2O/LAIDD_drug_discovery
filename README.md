@@ -61,7 +61,10 @@ LAIDD-drug-discovery/
 │   │       ├── prac4.py
 │   │       ├── mdock_vina.py
 │   │       └── docking_mp.txt
-│
+│   └── 4_equidock_deep_learning_based_docking/  ✅ 완료
+│       ├── README.md
+│       └── Equidock_practice.ipynb
+│  
 └── ligand-based/
     └── (실습 추가 예정)
 ```
@@ -96,9 +99,9 @@ LAIDD-drug-discovery/
 | protein data bank 분석 (2강) | 홍승환 (한국제약바이오협회) | PBI toolkit, UniProt 연동, 도킹 전처리 | ✅ [`2_2_pbi_toolkit_analysis/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_2_pbi_toolkit_analysis) |
 | protein data bank 분석 (실습) | 홍승환 (한국제약바이오협회) | Cα 거리 히스토그램, 라마찬드란 플롯 | ✅ [`2_3_pdb_statistics/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/2_3_pdb_statistics) |
 | 도킹 프로그램 사용 실습 | 홍승환 (한국제약바이오협회) | AutoDock Vina, Quick Vina 2, 도킹 자동화, 멀티프로세싱 가상 탐색 | ✅ [`3_molecular_docking/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking) |
+| 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant GNN, EQUIDOCK 추론, RMSD 평가 | ✅ [`4_equidock_deep_learning_based_docking/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/4_equidock_deep_learning_based_docking) |
 | AI in Predicting Protein-Ligand Interaction (structure-based) | 김우연 (KAIST) | 이론 강의 (3D CNN, GNN 기반 모델) | — |
 | 구조 기반 가상 탐색을 활용한 유효물질 발굴과 최적화 | 이세한 (㈜히츠) | 가상 탐색, Hit-to-Lead | — |
-| 딥러닝을 이용한 단백질 도킹 | 이유한 (카카오브레인) | SE(3)-equivariant, End-to-end docking | — |
 | Molecular design with deep generative models | 임재창 (HITS) | SMILES/그래프 기반 생성모델 | — |
 | 분자생성모델 연구동향 리뷰 | 임재창 (HITS) | 이론 강의 | — |
 | AI 기반 protein-ligand interaction 예측 최신동향 | 황상연 (HITS) | 이론 강의 | — |
@@ -134,6 +137,7 @@ LAIDD-drug-discovery/
 | [`structure_based_drug_discovery/3_molecular_docking/3_1_docking_setup/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking/3_1_docking_setup) | 도킹 프로그램 사용 실습 — 환경 설정 및 도킹 실행 | Chimera GUI (-10.6) + Quick Vina 2 CLI (-11.4), TGFR1-855 결합 자세 재현 | AutoDock Vina 1.2.3, Quick Vina 2, AutoDockTools, PyMOL |
 | [`structure_based_drug_discovery/3_molecular_docking/3_3_docking_automation/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking/3_3_docking_automation) | 도킹 프로그램 사용 실습 — 도킹 자동화 | Bash/Python 자동화, SMARTS Pharmacophore 분석, 4개 리간드 Hit 선별 | dock_vina.sh, dock_vina.py, pharmacophore.py |
 | [`structure_based_drug_discovery/3_molecular_docking/3_4_multi_processing_for_virtual_screening/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/3_molecular_docking/3_4_multi_processing_for_virtual_screening) | 도킹 프로그램 사용 실습 — 멀티프로세싱 가상 탐색 | 135개 리간드 4코어 병렬 도킹, Best Hit CHEMBL409356 (-14.5 kcal/mol) | mdock_vina.py, Quick Vina 2, multiprocessing |
+| [`structure_based_drug_discovery/4_equidock_deep_learning_based_docking/`](https://github.com/OHfromH2O/LAIDD_drug_discovery/tree/main/structure_based_drug_discovery/4_equidock_deep_learning_based_docking) | 딥러닝을 이용한 단백질 도킹 — EQUIDOCK | DIPS 100개 구조 추론, C-RMSD 13.30Å / I-RMSD 10.19Å (논문 재현), py3Dmol 시각화 | EQUIDOCK, PyTorch 1.10.2, DGL 0.7.2, py3Dmol |
 
 ---
 
